@@ -42,5 +42,10 @@ This dataset provides a sufficient amount of labeled data to train both machine 
 - **Accuracy**: The accuracy rates of both models will be compared.  
 - **Training Time**: The training durations of the algorithms will be recorded.  
 - **Confusion Matrix**: An analysis will be conducted to determine which traffic signs are harder to recognize.  
-- **Model Complexity**: The complexity and computational cost of the tree-based model and CNN will be compared.  
+- **Model Complexity**: The complexity and computational cost of the tree-based model and CNN will be compared.
+
+
+   ## 4.DEMO
+
+![thss](https://github.com/user-attachments/assets/bccebeae-64d1-429d-a5c7-1c6657ccae8e)
 
