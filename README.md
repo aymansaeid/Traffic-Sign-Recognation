@@ -2,14 +2,11 @@
 
 ## 1. Problem Definition  
 
-In this project, a machine learning model will be developed to classify different traffic signs.  
-
-The automatic recognition of traffic signs provides a crucial application area for autonomous driving systems and road safety.  
-
-The study aims to compare the performance of two different machine learning algorithms:  
-
-- A tree-based model (Random Forest or XGBoost).  
-- A deep learning-based model (Convolutional Neural Network, CNN).  
+**In this project, a machine learning model will be developed to classify different traffic signs.**  
+**The automatic recognition of traffic signs provides a crucial application area for autonomous driving systems and road safety.**
+**The study aims to compare the performance of two different machine learning algorithms:** 
+- **A tree-based model (Random Forest or XGBoost).**  
+- **A deep learning-based model (Convolutional Neural Network, CNN).**
 
 ---  
 
@@ -34,7 +31,7 @@ This dataset provides a sufficient amount of labeled data to train both machine 
 
 ### **Algorithms to be Used:**  
 
-**A - Tree-Based Model**  
+**A - Tree-Based Model: Random Forest**  
 
 **B - Convolutional Neural Network (CNN)**  
 
